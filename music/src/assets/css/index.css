@@ -1,0 +1,24 @@
+body {
+	background-color: #e6e6e6
+}
+header {
+	display: flex;
+	text-align: center;
+	font-size: 1.6rem;
+	background-color: #7d1f8d;
+}
+header span {
+	background-color: #7d1f8d;
+	color: #a245b2;
+	flex:1;
+	padding: 0.7rem 0
+
+}
+header .active {
+	background-color: #9c27b0;
+	color: #fff
+}
+
+.swiper-container {
+	margin-top: 0.7rem;
+}
